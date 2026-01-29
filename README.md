@@ -52,7 +52,33 @@ AI Operator · Autonomous System · Local Runtime
 
 This section tracks proprietary and enterprise-grade AI operator systems.
 
-(To be added)
+---
+
+## [Twin](https://twin.so)
+
+<img src="assets/operators/twin-img.png" width="140" />
+
+**Category:**  
+AI Operator · Autonomous System · Cloud Runtime
+
+**Description:**
+
+- **Autonomous execution** – completes multi-step tasks in real environments  
+- **Human-like memory** – retains important context across hundreds of tasks and forgets irrelevant details  
+- **Adaptive models** – switches to smaller models after learning workflows to reduce cost (~1/10th runtime cost)  
+- **Cloud-native** – runs remotely, no local setup or device dependency  
+- **Instant onboarding** – sign up and operate immediately  
+- **Scalable by design** – supports parallel execution and workload scaling  
+- **Security-first architecture** – built with isolation and controlled execution from day one  
+
+**Links:**
+
+- Website: https://twin.so  
+- Documentation: —  
+- Community: —  
+
+---
+
 
 ---
 
