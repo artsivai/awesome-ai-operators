@@ -26,6 +26,8 @@ An AI Operator is a system that:
 
 ## [Moltbot](https://github.com/moltbot/moltbot)
 
+<img src="assets/operators/moltbot-img.png" alt="Moltbot logo" width="160"/>
+
 **Category:**  
 AI Operator · Autonomous System · Local Runtime
 
