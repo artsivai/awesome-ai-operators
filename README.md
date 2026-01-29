@@ -1,3 +1,5 @@
+<img src="assets/banner.png" alt="Awesome AI Operators banner" />
+
 # Awesome AI Operators 😈
 A curated list of AI Operators — autonomous systems that use software the same way humans do.
 
